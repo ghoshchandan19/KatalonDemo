@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 78.0.3904.108,,2019-12-05 18:15:18,2019-12-05 18:15:27,8.752s,PASSED
+,,,,,,
+Test Cases/Test1,Chrome 78.0.3904.108,,2019-12-05 18:15:18,2019-12-05 18:15:26,7.757s,PASSED
+"openBrowser(""https://investor-web.hdfcfund.com/"")",Chrome 78.0.3904.108,,2019-12-05 18:15:18,2019-12-05 18:15:26,7.481s,PASSED
